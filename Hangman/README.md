@@ -2,4 +2,5 @@
 
 
 Requirements: 
-    - Libraries: `json`, `random`, `time`, `os`
+
+	- Libraries: `json`, `random`, `time`, `os`
