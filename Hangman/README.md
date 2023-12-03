@@ -1,6 +1,5 @@
 # This is my Hangman Project
 
 
-Requirements: 
-
+Requirements:\ 
 	- Libraries: `json`, `random`, `time`, `os`
